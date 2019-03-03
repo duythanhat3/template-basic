@@ -1,7 +1,7 @@
 body {
     /* border: red dotted 1px; */
-    padding: 30px 250px;
-    margin: 0;
+    padding: 30px;
+    margin: 0 auto;
     background-color: #959698;
     background-image: url('img/body_background2.png');
     /* background-repeat: no-repeat; */
